@@ -1,0 +1,6 @@
+*target
+*.settings
+*.git
+*test-output
+*.classpath
+*.project
