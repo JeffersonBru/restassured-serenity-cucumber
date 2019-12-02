@@ -17,9 +17,9 @@ Uma abordagem interessante na disposição dos testes utilizando framework bdd, 
 
 ## Conhecimento adiquirido
 
-Durante a construção do projeto acabei conhecendo o Serenity que de acordo com eles "O Serenity também usa os resultados do teste para produzir relatórios narrativos ilustrados que documentam e descrevem o que seu aplicativo faz e como ele funciona. O Serenity informa não apenas quais testes foram executados, mas, mais importante, quais requisitos foram testados.". O ponto forte que trás uma nova abordagem em padrão de projeto de testes automatizados chamado de Screenplay onde é possível descrever passos que auxilian das chamadas de execucao de métodos do cucumber através da feature.
+Durante a construção do projeto acabei conhecendo o Serenity que de acordo com eles "O Serenity também usa os resultados do teste para produzir relatórios narrativos ilustrados que documentam e descrevem o que seu aplicativo faz e como ele funciona. O Serenity informa não apenas quais testes foram executados, mas, mais importante, quais requisitos foram testados.". O ponto forte que trás uma abordagem em padrão de projeto de testes automatizados chamado de Screenplay onde é possível descrever passos que auxilian das chamadas de execucao de métodos do cucumber através da feature e muitas outras coisas.
 ![Image description](http://serenity-bdd.info/docs/articles/images/screenplay.png)
-Infelizmente não deu tempo para eu utilizar o Serenity no projeto de teste, mas vou estudar mais sobre essa nova abordagem, acredito que tem potencial futuro.
+Infelizmente não deu tempo para eu utilizar o Serenity no projeto de teste, mas vou estudar mais sobre essa abordagem, acredito que tem potencial.
 
 ## Bugs encontrados
 
