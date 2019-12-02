@@ -21,5 +21,11 @@ Durante a construção do projeto acabei conhecendo o Serenity que de acordo com
 ![Image description](http://serenity-bdd.info/docs/articles/images/screenplay.png)
 Infelizmente não deu tempo para eu utilizar o Serenity no projeto de teste, mas vou estudar mais sobre essa nova abordagem, acredito que tem potencial futuro.
 
+## Bugs encontrados
+
+- Documentação para teste apresenta como GET "localhost:8080/{ddd}/{numero}" porem o endpoint correto para requisicao é "localhost:8080/pessoas/{ddd}/{numero}"
+- Sistema apresena erro ao tentar incluir array de endereços e telefones com mais de um item dentro do array
+- Sistema permite inserir pessoa com cpf e dados telefonicos inválidos
+
 ## Agradecimento
 Agradeço a oportunidade de participar do processo, onde pude aprender ainda mais sobre projetos de teste utiliando cucumber.
