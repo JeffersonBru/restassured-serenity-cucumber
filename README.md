@@ -29,5 +29,3 @@ Infelizmente não deu tempo para eu utilizar o Serenity no projeto de teste, mas
 - Sistema apresenta erro ao incluir uma pessoa sem algumas propriedades como por exemplo "telefone", acredito que o sistema deve apresentar mensagem negocial para a situacao, informando que os campos xpto são obrigatórios
 - Sistema apresenta erro ao realizar inclusao de pessoa com campos/dados acima de 255 caracteres
 
-## Agradecimento
-Agradeço a oportunidade de participar do processo, onde pude aprender ainda mais sobre projetos de teste utiliando cucumber.
